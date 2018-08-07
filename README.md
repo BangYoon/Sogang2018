@@ -1,24 +1,24 @@
 # Sogang2018
 2018.08.07 - 2018.08.08
 
-#서강대학교 2018 여름 캠프
+# 서강대학교 2018 여름 캠프
 > - 일시: 2018.08.07 10:30 - 18:30
 > - 장소: 리찌과학관 R914
 
-####Git
+#### Git
 - Git Download
-####Github
+#### Github
 - Github Join
-####SourceTree
+#### SourceTree
 - SourceTree Join by Google
 - Learn How to Push
-####Atom
+#### Atom
 - Atom Download
 - Link with SourceTree
 - Code 
   - Calculater()
   - Sum()
   - Minus()
-####Marxi
+#### Marxi
 - Site: https://marxi.co/
 - make "readme.md" file
